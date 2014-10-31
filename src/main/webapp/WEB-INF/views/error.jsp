@@ -2,11 +2,11 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>Error</title>
 </head>
 <body>
 <h1>
-	Hello world!  
+	${ex.message }  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
