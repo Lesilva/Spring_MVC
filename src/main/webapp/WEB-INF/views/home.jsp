@@ -10,5 +10,7 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+
+<p> Testing git with STS on OS X </p>
 </body>
 </html>
